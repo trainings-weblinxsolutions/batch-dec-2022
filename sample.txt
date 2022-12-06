@@ -2,3 +2,5 @@ This is my first line
 this is git learning
 Adding a third line
 Today is 6th Dec
+This will be a new line
+for sample commit
