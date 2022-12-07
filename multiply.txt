@@ -1,0 +1,2 @@
+This is the file for multiplication
+we will multiply two numbers a and b as a*b
