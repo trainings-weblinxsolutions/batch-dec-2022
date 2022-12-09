@@ -1,5 +1,13 @@
 ## Assignments
 
+### Assignment 2
+**To Do**
+1. Install JDK on your machine
+2. Try running one simple program
+3. Go through the theory part taught in the class
+
+
+
 ### Assignment 1
 **GittHub Repository creation**
 **Steps**
