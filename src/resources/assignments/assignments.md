@@ -1,5 +1,13 @@
 ## Assignments
 
+### Assignment 3
+**To Do**
+1. Explore different Basic data types (byte, short, int , long, float, double, boolean, char)
+2. Try to create different variables using different names
+3. Explore the arithmetic operators (+ , - , * , / , ++ , -- , += )
+
+
+
 ### Assignment 2
 **To Do**
 1. Install JDK on your machine
