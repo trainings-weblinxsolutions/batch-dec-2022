@@ -1,5 +1,14 @@
 ## Assignments
 
+
+### Assignment 4
+**To Do**
+1. Explore All different operators provided in the JavaTheory_2.docx
+2. Try to create different variables and use the different operators discussed in class
+3. Practice Java Selection statements - if else, nested if's, if-else ladder, switch
+
+
+
 ### Assignment 3
 **To Do**
 1. Explore different Basic data types (byte, short, int , long, float, double, boolean, char)
