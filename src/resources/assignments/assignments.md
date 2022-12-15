@@ -1,5 +1,11 @@
 ## Assignments
 
+### Assignment 5
+**To Do**
+1. Explore for,while, do-while
+2. Trying out the factorial. Do the factorial program using while loop
+3. Write a program to print Fibonnacci series
+
 
 ### Assignment 4
 **To Do**
