@@ -1,5 +1,12 @@
 ## Assignments
 
+### Assignment 6
+**To Do**
+1. Write a program to check if a number is prime or not
+2. Complete all other assignments.
+3. Be prepared for the Monday's QnA
+
+
 ### Assignment 5
 **To Do**
 1. Explore for,while, do-while
