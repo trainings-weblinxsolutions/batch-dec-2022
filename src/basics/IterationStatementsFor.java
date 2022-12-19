@@ -39,7 +39,7 @@ for(int i=5 ; ; ){
  */
  
 System.out.println("Printing from 1 to 10"); 
-for(int i = 1 ; i <=10 ; i * 2){
+for(int i = 1 ; i <=10 ; i=i * 2){
  System.out.println(i); 
 }
 System.out.println("Done");  
