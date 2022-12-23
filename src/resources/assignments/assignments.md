@@ -1,5 +1,34 @@
 ## Assignments
 
+
+### Assignment 8
+**To Do**
+1. Go through the lectures, notes and programs on creating classes,objects and methods.
+2. Create a class Employee,
+	a. With age, salaryPerDay and noOfDaysWorking attributes
+	b. A method to compute monthly salary, which will return the monthly salary which is calculated as salaryPerDay*noOfDaysWorking
+	c. If age is >40, add an extra bonus of 100 per working day to the monthly salary. If age is >60, add an extra bonus of 200 per working day to the monthly salary.
+	d. Create multiple employees with the following data. (Values are comma separated - first value is age, second is salaryPerDay, third is noOfDaysWorking)
+		i.   employee1 - (26, 1000, 27)
+		ii.  employee2 - (39, 1250, 25)
+		iii. employee3 - (41, 1100, 29)
+		iv.  employee4 - (53, 1050, 26)
+		v.   employee5 - (62, 1150, 24)
+	e. Print out the monthly salary for each employee.
+	
+
+### Assignment 7
+**To Do**
+1. Go through the arrays lecture, notes and programs.
+2. Create an array with elements {7,8,1,3,41,2,9,5,12,6,4,16}. Fin out the maximum and minimum number in the array.
+3. Write a program to check if two arrays are equal or not. Eg 1: array1  = {2,3,4,5} , array2 = {2,3,4,5} , output should be true. Eg 2: array1  = {2,3,4,6} , array2 = {2,3,4,5} , output should be false.
+4. Write a program to find the sum of numbers at even and odd indices in array and then print out the which sum is the greatest.
+	Eg: array = {4,5,2,8,3,6}
+	Sum at even indices = 4+2+3 = 9 (4 is at index 0, 2 is at index 2, 3 is at index 4)
+	Sum at odd  indices = 5+8+6 = 19 (5 is at index 1, 8 is at index 3, 6 is at index 5)
+	O/p should be: Sum at odd indices is greatest.
+
+
 ### Assignment 6
 **To Do**
 1. Write a program to check if a number is prime or not
