@@ -1,6 +1,11 @@
 ## Assignments
 
 
+### Assignment 9
+**To Do**
+1. Create a class (Box) and have method created to set the instance variables (Go through the example we discussed in class)
+2. Create a class with default constructor, multiple parameterised constructor. (Go through the example we discussed in class)
+
 ### Assignment 8
 **To Do**
 1. Go through the lectures, notes and programs on creating classes,objects and methods.
