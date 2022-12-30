@@ -1,6 +1,25 @@
 ## Assignments
 
 
+### Assignment 11
+**To Do - Some Java Programs to solve**
+1.  Fibonnaci Series - using Recursion
+2.	Pallindrome number (121 , 212, 6556)
+3.	Transpose of a matrix
+4.	Armstrong number – 153 (1^3 + 5^3 + 3^3 = 153)
+5.	Peterson Number – 145 (1!+4!+5! = 145)
+
+
+### Assignment 10
+**To Do**
+1. Class Composition - Using the Room Example we discussed in class, create a composition example for a Car
+	a. A car has a engine
+	b. A car has a seat (seat can be front seat, back seat)
+	c. A car has a tyre
+	d. So at-least create a Seat, Tyre class and when creating a Car class use them are reference.
+	e. Add constructors to the classes so that they can be used while creating objects.
+
+
 ### Assignment 9
 **To Do**
 1. Create a class (Box) and have method created to set the instance variables (Go through the example we discussed in class)
