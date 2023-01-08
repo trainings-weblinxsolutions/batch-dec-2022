@@ -1,5 +1,17 @@
 ## Assignments
 
+### Assignment 12
+**To Do**
+1. Understand Inheritance and try out sample programs discussed in class
+2. Understand Overriding and try out sample programs discussed in class
+3. Create classes in the below manner:
+	* Class A is the parent class with two methods m1 and m2. In m1 method we should print from "m1 class A", in m2 method we should print "m2 class A"
+	* Class B is a child of Class A. In this class override m2 method only
+	* Class C is a child of Class B. In this class override m1 method only
+	* Now create objects of class A, B, C and invoke m1 m2 methods and see determine which statements are printed and why
+	* Use super then to print statements from parent class.
+	
+
 
 ### Assignment 11
 **To Do - Some Java Programs to solve**
