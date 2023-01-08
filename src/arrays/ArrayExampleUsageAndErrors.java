@@ -1,3 +1,5 @@
+package arrays;
+
 public class ArrayExampleUsageAndErrors{
 public static void main(String []args) {
 

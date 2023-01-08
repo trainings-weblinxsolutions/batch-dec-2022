@@ -1,3 +1,5 @@
+package inheritance;
+
 class MultiLevelMethodOverriding
 {
     public static void main(String arg[])

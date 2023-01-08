@@ -1,3 +1,5 @@
+package classes_objects;
+
 class Outer {
        int outer_x = 100;
    

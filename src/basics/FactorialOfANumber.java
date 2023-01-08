@@ -1,3 +1,4 @@
+package basics;
 public class FactorialOfANumber{
 public static void main(String []args) {
 

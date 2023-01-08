@@ -1,3 +1,5 @@
+package classes_objects;
+
 class CompareEntertainments
 {
     public static void main(String arg[])

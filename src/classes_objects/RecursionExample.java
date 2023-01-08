@@ -1,3 +1,5 @@
+package classes_objects;
+
 class Factorial {
        // this is a recursive method
        int fact(int n) {

@@ -1,3 +1,4 @@
+package basics;
 public class Questions_Week_1_Week_2{
 
 

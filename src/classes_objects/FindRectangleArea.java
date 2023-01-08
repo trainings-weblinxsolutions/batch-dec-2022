@@ -1,8 +1,10 @@
+package classes_objects;
+
 class FindRectangleArea
 {
     public static void main(String arg[])
     {
-        Rectangle rect = new Rectangle(10, 5);
+        Rectangle1 rect = new Rectangle1(10, 5);
         
         System.out.println("Length = " + rect.length);
         System.out.println("Breadth = " + rect.breadth);
@@ -11,7 +13,7 @@ class FindRectangleArea
         
         
         
-         Rectangle rect1 = new Rectangle(15, 8);
+         Rectangle1 rect1 = new Rectangle1(15, 8);
          System.out.println("Length = " + rect1.length);
         System.out.println("Breadth = " + rect1.breadth);
         System.out.println("Area = " + rect1.getArea());
@@ -19,7 +21,7 @@ class FindRectangleArea
         
          System.out.println("-----------");
         
-         Rectangle rect2 = new Rectangle(150, 9);
+         Rectangle1 rect2 = new Rectangle1(150, 9);
          System.out.println("Area of rect2 = " + rect2.getArea());
    
         
@@ -32,12 +34,12 @@ class FindRectangleArea
 }
 
 
-class Rectangle
+class Rectangle1
 {
     double length;
     double breadth;
 
-    Rectangle(double length, double breadth)
+    Rectangle1(double length, double breadth)
     {
         this.length = length;
         this.breadth = breadth;

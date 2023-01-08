@@ -1,3 +1,5 @@
+package classes_objects;
+
 class Student
 {
     String name;

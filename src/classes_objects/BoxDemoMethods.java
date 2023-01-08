@@ -1,4 +1,6 @@
-class Box {
+package classes_objects;
+
+class Box3 {
   double width;
   double height;
   double depth;
@@ -32,7 +34,7 @@ class Box {
 
 class BoxDemoMethods {
   public static void main(String args[]) {
-    Box mybox = new Box();
+    Box3 mybox = new Box3();
     // invoke setDim method
    mybox.setDim(10, 20, 15);        
 
@@ -48,7 +50,7 @@ class BoxDemoMethods {
    System.out.println(vol);
    
    
-   Box mybox2 = new Box();
+   Box3 mybox2 = new Box3();
        /* assign different values to mybox2's
            // invoke setDim method */
 	 mybox2.setDim(3, 6, 9);
@@ -61,8 +63,8 @@ class BoxDemoMethods {
    
    
    
-    Box mybox3 ;
-    mybox3= new Box();
+    Box3 mybox3 ;
+    mybox3= new Box3();
        /*     // invoke setDim method */
  		mybox3.setDim(10, 5, 3);
       System.out.println("Width : "+mybox3.width);

@@ -1,3 +1,5 @@
+package arrays;
+
 public class ArrayExampleMultiDimensional{
 
 boolean createNewFile(){
@@ -50,10 +52,5 @@ for(int i = 0 ; i < matrix.length ; i++){
 
 
 }
-
-
-if()
-
 }
-
 }

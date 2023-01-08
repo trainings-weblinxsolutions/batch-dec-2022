@@ -1,3 +1,5 @@
+package inheritance;
+
 class CompareEntertainmentsUsingInheritance{
 public static void main(String arg[])
     {

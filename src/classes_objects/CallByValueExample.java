@@ -1,4 +1,6 @@
-class Test {
+package classes_objects;
+
+class Test1 {
   void meth(int i, int j) {
     i *= 2;
 	j /= 2; 
@@ -8,7 +10,7 @@ class Test {
 }
 class CallByValueExample {
   public static void main(String args[]) {
-    Test ob = new Test();
+    Test1 ob = new Test1();
     int a = 15, b = 20;
     System.out.println("a and b before call: " +
                        a + " " + b);

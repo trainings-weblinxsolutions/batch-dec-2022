@@ -1,11 +1,13 @@
-class Box {
+package classes_objects;
+
+class Box2 {
   double width;
   double height;
   double depth;
   
   
   
-   Box(double width, double height, double depth) {
+   Box2(double width, double height, double depth) {
     System.out.println("Constructing Box");
     this.width = width;
     this.height = height;
@@ -14,14 +16,14 @@ class Box {
 
 
 	  // constructor used when no dimensions specified
-  Box() {
+  Box2() {
     width = -1;  // use -1 to indicate
     height = -1; // an uninitialized
     depth = -1;  // box
 }
 
 // constructor used when cube is created
-  Box(double len) {
+  Box2(double len) {
     width = height = depth = len;
   }
 
@@ -41,9 +43,9 @@ class Box {
 
 class BoxDemoConstrutorOverloading {
   public static void main(String args[]) {
-   	Box mybox1 = new Box(10, 20, 15);
-    Box mybox2 = new Box();
-    Box mycube = new Box(7);
+   	Box2 mybox1 = new Box2(10, 20, 15);
+    Box2 mybox2 = new Box2();
+    Box2 mycube = new Box2(7);
 
     double vol;
 // get volume of first box

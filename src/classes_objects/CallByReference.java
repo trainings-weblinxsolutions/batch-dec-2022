@@ -1,3 +1,5 @@
+package classes_objects;
+
 class Test {
 
 int a,b;

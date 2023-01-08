@@ -1,3 +1,5 @@
+package classes_objects;
+
 class UseStaticExample {
     static int a = 3;
     static int b;

@@ -1,3 +1,5 @@
+package inheritance;
+
 class TestVehiclesHierarchy
 {
     public static void main(String arg[])

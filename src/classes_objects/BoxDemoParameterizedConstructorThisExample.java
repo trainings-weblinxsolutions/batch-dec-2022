@@ -1,11 +1,13 @@
-class Box {
+package classes_objects;
+
+class Box5 {
   double width;
   double height;
   double depth;
   
   
   
-   Box(double width, double height, double depth) {
+   Box5(double width, double height, double depth) {
     System.out.println("Constructing Box");
     this.width = width;
     this.height = height;
@@ -28,11 +30,11 @@ class Box {
 
 class BoxDemoParameterizedConstructorThisExample {
   public static void main(String args[]) {
-    Box mybox = new Box(10,10,10);
+    Box5 mybox = new Box5(10,10,10);
     System.out.println(mybox.volume());
     
     
-      Box mybox1 = new Box(10,12,15);
+      Box5 mybox1 = new Box5(10,12,15);
     System.out.println(mybox1.volume());
     
 

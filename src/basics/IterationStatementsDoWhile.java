@@ -1,3 +1,4 @@
+package basics;
 public class IterationStatementsDoWhile{
 
 public static void main(String []args) {

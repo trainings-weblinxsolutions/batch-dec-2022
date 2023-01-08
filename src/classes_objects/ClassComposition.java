@@ -1,3 +1,5 @@
+package classes_objects;
+
 class ClassComposition
 {
     public static void main(String arg[])
